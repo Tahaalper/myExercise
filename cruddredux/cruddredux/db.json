@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "Ahmet",
+      "lastName": "Mehmet",
+      "number": "1002",
+      "school": "Cumhuriyet İ.Ö.O.",
+      "class": "5/B"
+    },
+    {
+      "id": "1690152350427",
+      "firstName": "Alper",
+      "lastName": "Durukan",
+      "number": "101",
+      "class": "8/L",
+      "school": "Hürriyet İ.Ö.O"
+    },
+    {
+      "id": "1690152613236",
+      "firstName": "Mehlike",
+      "lastName": "İlik",
+      "number": "103",
+      "class": "12/bilmiyorum",
+      "school": "Bilmiyorum"
+    },
+    {
+      "id": "1690166603041",
+      "firstName": "ali",
+      "lastName": "veli",
+      "number": "14",
+      "class": "msa",
+      "school": "asm"
+    }
+  ]
+}
