@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": "1689728345351",
+      "firstName": "Mehlika",
+      "lastName": "Karabatak",
+      "number": "102",
+      "class": "--",
+      "school": "aynı olur ins"
+    },
+    {
+      "id": "1689804816261",
+      "firstName": "Ali",
+      "lastName": "Velicansoy",
+      "number": "103",
+      "class": "5/C",
+      "school": "velicansoy i.o"
+    }
+  ]
+}

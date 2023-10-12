@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "id": "1688127308502",
+      "text": "selami",
+      "isDone": false,
+      "date": "2023-06-30T12:15:08.502Z"
+    },
+    {
+      "id": "1688131957459",
+      "text": "ali mustafa",
+      "isDone": false,
+      "date": "2023-06-30T13:32:37.459Z"
+    },
+    {
+      "id": "1688131957940",
+      "text": "veli sarıkaya",
+      "isDone": false,
+      "date": "2023-06-30T13:32:37.940Z"
+    },
+    {
+      "id": "1688131958833",
+      "text": "selami enes",
+      "isDone": false,
+      "date": "2023-06-30T13:32:38.833Z"
+    }
+  ],
+  "deneme": [
+    {
+      "id": "1",
+      "name": "ahmet"
+    },
+    {
+      "id": "2",
+      "name": "mehmet"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.primary {
+    background-color: brown;
+    display: flex;
+    width: auto;
+    height: 500px;
+
+}
+.secondary {
+    background-color: blueviolet;
+    display: flex;
+    width : auto;
+    height: 300px;
+}
